@@ -1,1 +1,1 @@
-This is practice purpose i pushed to github.
+"I have successfully pushed my code to GitHub for practice purposes. This demonstrates my proficiency in software development and my ability to effectively utilize industry-standard tools such as GitHub."
